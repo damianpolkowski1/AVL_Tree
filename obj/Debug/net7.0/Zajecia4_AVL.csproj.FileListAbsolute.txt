@@ -1,0 +1,15 @@
+C:\Users\Damianek\Desktop\sem3\ASD\Zajecia4_AVL\bin\Debug\net7.0\Zajecia4_AVL.exe
+C:\Users\Damianek\Desktop\sem3\ASD\Zajecia4_AVL\bin\Debug\net7.0\Zajecia4_AVL.deps.json
+C:\Users\Damianek\Desktop\sem3\ASD\Zajecia4_AVL\bin\Debug\net7.0\Zajecia4_AVL.runtimeconfig.json
+C:\Users\Damianek\Desktop\sem3\ASD\Zajecia4_AVL\bin\Debug\net7.0\Zajecia4_AVL.dll
+C:\Users\Damianek\Desktop\sem3\ASD\Zajecia4_AVL\bin\Debug\net7.0\Zajecia4_AVL.pdb
+C:\Users\Damianek\Desktop\sem3\ASD\Zajecia4_AVL\obj\Debug\net7.0\Zajecia4_AVL.csproj.AssemblyReference.cache
+C:\Users\Damianek\Desktop\sem3\ASD\Zajecia4_AVL\obj\Debug\net7.0\Zajecia4_AVL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damianek\Desktop\sem3\ASD\Zajecia4_AVL\obj\Debug\net7.0\Zajecia4_AVL.AssemblyInfoInputs.cache
+C:\Users\Damianek\Desktop\sem3\ASD\Zajecia4_AVL\obj\Debug\net7.0\Zajecia4_AVL.AssemblyInfo.cs
+C:\Users\Damianek\Desktop\sem3\ASD\Zajecia4_AVL\obj\Debug\net7.0\Zajecia4_AVL.csproj.CoreCompileInputs.cache
+C:\Users\Damianek\Desktop\sem3\ASD\Zajecia4_AVL\obj\Debug\net7.0\Zajecia4_AVL.dll
+C:\Users\Damianek\Desktop\sem3\ASD\Zajecia4_AVL\obj\Debug\net7.0\refint\Zajecia4_AVL.dll
+C:\Users\Damianek\Desktop\sem3\ASD\Zajecia4_AVL\obj\Debug\net7.0\Zajecia4_AVL.pdb
+C:\Users\Damianek\Desktop\sem3\ASD\Zajecia4_AVL\obj\Debug\net7.0\Zajecia4_AVL.genruntimeconfig.cache
+C:\Users\Damianek\Desktop\sem3\ASD\Zajecia4_AVL\obj\Debug\net7.0\ref\Zajecia4_AVL.dll
