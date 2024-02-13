@@ -12,6 +12,9 @@ e) Display the tree structure along with its elements
 f) Execute a command script:
 
 W x - insert x
+
 U x - remove x
+
 S x - find x (response: YES/NO)
+
 L x - count how many numbers have an integer part equal to x
